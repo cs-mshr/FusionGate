@@ -1,0 +1,7 @@
+/home/csmshr/IdeaProjects/pavnav/student/src/main/java/com/paynav/student/StudentApplication.java
+/home/csmshr/IdeaProjects/pavnav/student/src/main/java/com/paynav/student/repository/StudentRepo.java
+/home/csmshr/IdeaProjects/pavnav/student/src/main/java/com/paynav/student/config/OpenApiConfig.java
+/home/csmshr/IdeaProjects/pavnav/student/src/main/java/com/paynav/student/controller/StudentController.java
+/home/csmshr/IdeaProjects/pavnav/student/src/main/java/com/paynav/student/model/Student.java
+/home/csmshr/IdeaProjects/pavnav/student/src/main/java/com/paynav/student/service/StudentServiceImpl.java
+/home/csmshr/IdeaProjects/pavnav/student/src/main/java/com/paynav/student/service/StudentService.java
