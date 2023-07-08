@@ -27,16 +27,8 @@ This project is an implementation of a management software system using microser
 - **Swagger API Documentation:** The API endpoints and their details are documented using Swagger. You can access the Swagger UI to explore the available endpoints, request/response models, and make test requests. The Swagger documentation can be accessed at `[local/swagger-ui.html](http://localhost:8080/swagger-ui/index.html#/)`,`[local/swagger-ui.html](http://localhost:8081/swagger-ui/index.html#/)`.
 
 Feel free to explore the project and refer to the documentation for more details on each component and its configuration.
+![Screenshot from 2023-07-08 01-48-57](https://github.com/cs-mshr/project-paynav/assets/95642555/d8fc5b54-2465-4a52-9362-be9b1844f667)
+![Screenshot from 2023-07-08 01-49-08](https://github.com/cs-mshr/project-paynav/assets/95642555/8564a7dc-3855-48b1-889b-971c5f715430)
+![Screenshot from 2023-07-08 01-49-22](https://github.com/cs-mshr/project-paynav/assets/95642555/28924bed-b69b-4323-aca6-4e8340034c39)
 
 For any further questions or clarifications, please reach out to the project maintainer.
-
-![Screenshot from 2023-07-08 01-49-22](https://github.com/cs-mshr/paynav-project/assets/95642555/719238a4-db60-41d3-a587-aa7c5631e2fc)
-
-
-![Screenshot from 2023-07-08 01-49-08](https://github.com/cs-mshr/paynav-project/assets/95642555/ca3e1085-e43b-42a6-ae4b-359bbd7742bc)
-
-
-![Screenshot from 2023-07-08 01-48-57](https://github.com/cs-mshr/paynav-project/assets/95642555/1a52dfef-f373-467c-9d09-a4b199cce8b8)
-# paynav-project
-# paynav-project
-# paynav-project
