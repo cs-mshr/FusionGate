@@ -1,4 +1,5 @@
-# Management Software Project
+# FusionGate
+#### Microservices based Management software with API Gateway, Caching, and Intelligent Resilience
 
 This project is an implementation of a management software system using microservices architecture. It consists of two microservices with a common API Gateway to handle client requests. The project is set up with the following features:
 
