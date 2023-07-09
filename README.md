@@ -24,7 +24,7 @@ This project is an implementation of a management software system using microser
 
 
 
-- **Swagger API Documentation:** The API endpoints and their details are documented using Swagger. You can access the Swagger UI to explore the available endpoints, request/response models, and make test requests. The Swagger documentation can be accessed at `[local/swagger-ui.html](http://localhost:8080/swagger-ui/index.html#/)`,`[local/swagger-ui.html](http://localhost:8081/swagger-ui/index.html#/)`.
+- **Swagger API Documentation:** The API endpoints and their details are documented using Swagger. You can access the Swagger UI to explore the available endpoints, request/response models, and make test requests. The Swagger documentation can be accessed at [Student/swagger-ui.html](http://localhost:8080/swagger-ui/index.html#/),[Teacher/swagger-ui.html](http://localhost:8081/swagger-ui/index.html#/).
 
 Feel free to explore the project and refer to the documentation for more details on each component and its configuration.
 ![Screenshot from 2023-07-08 01-48-57](https://github.com/cs-mshr/project-paynav/assets/95642555/d8fc5b54-2465-4a52-9362-be9b1844f667)
